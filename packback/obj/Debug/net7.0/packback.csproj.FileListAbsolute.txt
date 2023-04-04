@@ -1,0 +1,15 @@
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\packback\obj\Debug\net7.0\packback.csproj.AssemblyReference.cache
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\packback\obj\Debug\net7.0\packback.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\packback\obj\Debug\net7.0\packback.AssemblyInfoInputs.cache
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\packback\obj\Debug\net7.0\packback.AssemblyInfo.cs
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\packback\obj\Debug\net7.0\packback.csproj.CoreCompileInputs.cache
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\packback\bin\Debug\net7.0\packback.exe
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\packback\bin\Debug\net7.0\packback.deps.json
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\packback\bin\Debug\net7.0\packback.runtimeconfig.json
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\packback\bin\Debug\net7.0\packback.dll
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\packback\bin\Debug\net7.0\packback.pdb
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\packback\obj\Debug\net7.0\packback.dll
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\packback\obj\Debug\net7.0\refint\packback.dll
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\packback\obj\Debug\net7.0\packback.pdb
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\packback\obj\Debug\net7.0\packback.genruntimeconfig.cache
+C:\Users\a.fraess\Desktop\New folder\c#\proj\oop\packback\obj\Debug\net7.0\ref\packback.dll
